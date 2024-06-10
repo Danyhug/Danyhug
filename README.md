@@ -4,6 +4,6 @@
 	/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyhug&theme=buefy&hide_border=true&locale=cn&hide=Vim+Script"
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyhug&theme=buefy&hide_border=true&locale=cn&hide=Vim+Script,HTML,CSS,Visual+Basic+6.0,Go"
 	/>
 </a>
