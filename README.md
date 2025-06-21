@@ -22,4 +22,4 @@
 ## 📊 GitHub Stats
 
 ![danyhug's stats](https://github-readme-stats.vercel.app/api?username=danyhug&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&custom_title=Danyhug%27s+GitHub+Stats&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyhug&layout=compact&hide=html,scss,less,vim%20script,visual%20basic%206.0,css&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyhug&layout=compact&hide=html,java,scss,less,vim%20script,visual%20basic%206.0,css&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
