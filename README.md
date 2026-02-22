@@ -22,4 +22,4 @@
 ## 📊 GitHub Stats
 
 ![danyhug's stats](https://github-readme-stats-alpha-silk-34.vercel.app/api?username=danyhug&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&custom_title=Danyhug%27s+GitHub+Stats&hide=contribs)
-![Top Langs](https://github-readme-stats-alpha-silk-34.vercel.app/api/top-langs/?username=danyhug&layout=compact&langs_count=6&hide=c,roff,html,java,tex,scss,less,vim%20script,visual%20basic%206.0,css,cython,makefile,dockerfile,shell,markdown&exclude_repo=moocHelper_3&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_progress=true)
+![Top Langs](https://github-readme-stats-alpha-silk-34.vercel.app/api/top-langs/?username=danyhug&layout=compact&langs_count=6&hide=c,roff,html,java,tex,scss,less,vim%20script,visual%20basic%206.0,css,cython,makefile,dockerfile,shell,markdown&exclude_repo=moocHelper_3&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
